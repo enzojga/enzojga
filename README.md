@@ -1,9 +1,8 @@
 ### Hello World 👋
 
-### Hello World
-
 - My name is Enzo and i have been programming 2018.
 - Learning TypeScript and Java.
+- Full Stack Web Developer
 
 <div align="center">
   <a href="https://github.com/enzojga">
