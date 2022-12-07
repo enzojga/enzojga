@@ -3,6 +3,7 @@
 - My name is Enzo and i have been programming since 2018.
 - Learning TypeScript and Java.
 - Full Stack Web Developer.
+- Love to create new things.
 
 <div align="center">
   <a href="https://github.com/enzojga">
@@ -19,7 +20,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 ## Contact
