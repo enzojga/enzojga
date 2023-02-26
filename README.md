@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - My name is Enzo and i have been programming since 2018.
-- Learning TypeScript and C++.
+- Learning Angular and C++.
 - Wanting to learn Dart and Flutter.
 - Full Stack Web Developer.
 - Love to create new things.
