@@ -1,8 +1,8 @@
 ### Hello World 👋
 
 - My name is Enzo and i have been programming since 2018.
-- Learning Java and Kotlin.
-- Wanting to learn Dart and Flutter.
+- Learning Dart and Flutter.
+- Wanting to learn Kotlin.
 - Full Stack Web Developer.
 - Love to create new things.
 
